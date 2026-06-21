@@ -1,6 +1,5 @@
 # 📊 Financial Performance Intelligence Dashboard
 
-![Financial Performance Intelligence Dashboard](Resources/FinancialPerformanceIntelligenceDashboard.png)
 
 <p align="center">
   <img src="Resources/FinancialPerformanceIntelligenceDashboardrecoding.gif" alt="Dashboard Demo">
